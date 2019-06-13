@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-dao-context" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-dao-root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-dao-root/ksa-bd-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-dao-root/ksa-finance-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-dao-root/ksa-logistics-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-dao-root/ksa-security-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-debug" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-service-root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-service-root/ksa-bd-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-service-root/ksa-finance-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-service-root/ksa-logistics-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-service-root/ksa-security-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-web-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-web-root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-web-root/ksa-bd-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-web-root/ksa-finance-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-web-root/ksa-logistics-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-web-root/ksa-security-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-web-root/ksa-statistics-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-web-root/ksa-system-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ksa-web-root/ksa-web" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ksa-bd-dao" />
+        <module name="ksa-bd-service" />
+        <module name="ksa-bd-web" />
+        <module name="ksa-core" />
+        <module name="ksa-dao-context" />
+        <module name="ksa-debug" />
+        <module name="ksa-finance-dao" />
+        <module name="ksa-finance-service" />
+        <module name="ksa-finance-web" />
+        <module name="ksa-logistics-dao" />
+        <module name="ksa-logistics-service" />
+        <module name="ksa-logistics-web" />
+        <module name="ksa-security-dao" />
+        <module name="ksa-security-service" />
+        <module name="ksa-security-web" />
+        <module name="ksa-statistics-web" />
+        <module name="ksa-system-web" />
+        <module name="ksa-web" />
+        <module name="ksa-web-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ksa-bd-dao" target="1.6" />
+      <module name="ksa-bd-service" target="1.6" />
+      <module name="ksa-bd-web" target="1.6" />
+      <module name="ksa-core" target="1.6" />
+      <module name="ksa-dao-context" target="1.6" />
+      <module name="ksa-dao-root" target="1.6" />
+      <module name="ksa-debug" target="1.6" />
+      <module name="ksa-finance-dao" target="1.6" />
+      <module name="ksa-finance-service" target="1.6" />
+      <module name="ksa-finance-web" target="1.6" />
+      <module name="ksa-logistics-dao" target="1.6" />
+      <module name="ksa-logistics-service" target="1.6" />
+      <module name="ksa-logistics-web" target="1.6" />
+      <module name="ksa-root" target="1.6" />
+      <module name="ksa-security-dao" target="1.6" />
+      <module name="ksa-security-service" target="1.6" />
+      <module name="ksa-security-web" target="1.6" />
+      <module name="ksa-service-root" target="1.6" />
+      <module name="ksa-statistics-web" target="1.6" />
+      <module name="ksa-system-web" target="1.6" />
+      <module name="ksa-web" target="1.6" />
+      <module name="ksa-web-core" target="1.6" />
+      <module name="ksa-web-root" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

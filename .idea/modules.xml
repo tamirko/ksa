@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ksa-dao-root/ksa-bd-dao/ksa-bd-dao.iml" filepath="$PROJECT_DIR$/ksa-dao-root/ksa-bd-dao/ksa-bd-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-service-root/ksa-bd-service/ksa-bd-service.iml" filepath="$PROJECT_DIR$/ksa-service-root/ksa-bd-service/ksa-bd-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-web-root/ksa-bd-web/ksa-bd-web.iml" filepath="$PROJECT_DIR$/ksa-web-root/ksa-bd-web/ksa-bd-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-core/ksa-core.iml" filepath="$PROJECT_DIR$/ksa-core/ksa-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-dao-context/ksa-dao-context.iml" filepath="$PROJECT_DIR$/ksa-dao-context/ksa-dao-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-dao-root/ksa-dao-root.iml" filepath="$PROJECT_DIR$/ksa-dao-root/ksa-dao-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-debug/ksa-debug.iml" filepath="$PROJECT_DIR$/ksa-debug/ksa-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-dao-root/ksa-finance-dao/ksa-finance-dao.iml" filepath="$PROJECT_DIR$/ksa-dao-root/ksa-finance-dao/ksa-finance-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-service-root/ksa-finance-service/ksa-finance-service.iml" filepath="$PROJECT_DIR$/ksa-service-root/ksa-finance-service/ksa-finance-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-web-root/ksa-finance-web/ksa-finance-web.iml" filepath="$PROJECT_DIR$/ksa-web-root/ksa-finance-web/ksa-finance-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-dao-root/ksa-logistics-dao/ksa-logistics-dao.iml" filepath="$PROJECT_DIR$/ksa-dao-root/ksa-logistics-dao/ksa-logistics-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-service-root/ksa-logistics-service/ksa-logistics-service.iml" filepath="$PROJECT_DIR$/ksa-service-root/ksa-logistics-service/ksa-logistics-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-web-root/ksa-logistics-web/ksa-logistics-web.iml" filepath="$PROJECT_DIR$/ksa-web-root/ksa-logistics-web/ksa-logistics-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-root.iml" filepath="$PROJECT_DIR$/ksa-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-dao-root/ksa-security-dao/ksa-security-dao.iml" filepath="$PROJECT_DIR$/ksa-dao-root/ksa-security-dao/ksa-security-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-service-root/ksa-security-service/ksa-security-service.iml" filepath="$PROJECT_DIR$/ksa-service-root/ksa-security-service/ksa-security-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-web-root/ksa-security-web/ksa-security-web.iml" filepath="$PROJECT_DIR$/ksa-web-root/ksa-security-web/ksa-security-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-service-root/ksa-service-root.iml" filepath="$PROJECT_DIR$/ksa-service-root/ksa-service-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-web-root/ksa-statistics-web/ksa-statistics-web.iml" filepath="$PROJECT_DIR$/ksa-web-root/ksa-statistics-web/ksa-statistics-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-web-root/ksa-system-web/ksa-system-web.iml" filepath="$PROJECT_DIR$/ksa-web-root/ksa-system-web/ksa-system-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-web-root/ksa-web/ksa-web.iml" filepath="$PROJECT_DIR$/ksa-web-root/ksa-web/ksa-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-web-core/ksa-web-core.iml" filepath="$PROJECT_DIR$/ksa-web-core/ksa-web-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksa-web-root/ksa-web-root.iml" filepath="$PROJECT_DIR$/ksa-web-root/ksa-web-root.iml" />
+    </modules>
+  </component>
+</project>
